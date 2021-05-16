@@ -1,8 +1,8 @@
 <h1 align="center">Hello There! 👋, I'm Arnab Dutta</h1>
-- 👀 I’m interested in ... Web Development
-- 🌱 I’m currently learning ... React JS
-- 💞️ I’m looking to collaborate on ... Rust.lang
-- 📫 How to reach me ... try to....
+<h2>- 👀 I’m interested in ... Web Development</h2>
+<h2>- 🌱 I’m currently learning ... React JS</h2>
+<h2>- 💞️ I’m looking to collaborate on ... Rust.lang</h2>
+<h2>- 📫 How to reach me ... try to....</h2>
 
 
 <h3 align="center">In search of a Web Developer Intership</h3>
